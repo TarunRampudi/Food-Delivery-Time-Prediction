@@ -12,7 +12,7 @@ st.set_page_config(
 st.title("🍔 Food Delivery Time Prediction")
 st.write("Predict the estimated food delivery time using Tuned XGBoost.")
 
-API_URL = "http://127.0.0.1:8000/predict"
+API_URL = "API_URL = "https://food-delivery-time-prediction-9rck.onrender.com/predict""
 
 st.subheader("Enter Delivery Details")
 
