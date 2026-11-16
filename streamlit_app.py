@@ -13,7 +13,7 @@ st.title("🍔 Food Delivery Time Prediction")
 st.write("Predict the estimated food delivery time using Tuned XGBoost.")
 
 
-API_URL = "https://food-delivery-time-prediction-9rck.onrender.com/predict"
+API_URL = "https://food-delivery-time-prediction-2wvb.onrender.com/predict"
 
 st.subheader("Enter Delivery Details")
 
